@@ -1,0 +1,5 @@
+.* export-ignore
+.github/ export-ignore
+__tests__/ export-ignore
+
+*   text=auto eol=lf
