@@ -29,6 +29,7 @@
     "node": ">= 16.0.0"
   },
   "dependencies": {
+    "joi": "^17.7.0",
     "probot": "^12.2.8"
   },
   "devDependencies": {
